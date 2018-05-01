@@ -1,0 +1,305 @@
+
+Grupe,Vyrai,1970,1999
+Grupe,Moterys,1970,1999
+Grupe,Jauniai,2000,2001
+Grupe,Jaunės,2000,2001
+Grupe,Jaunučiai,2002,2003
+Grupe,Jaunutės,2002,2003
+Grupe,Berniukai,2004,2005
+Grupe,Mergaitės,2004,2005
+Grupe,Vaikai berniukai,2006,2010
+Grupe,Vaikai mergaitės,2006,2010
+1,Jonas,Ragauskas,1976,Visaginas,J. Ragauskas,V,08.57,05:13.4,125,117,42,20
+2,Simonas,Maldonis,1993,Vilnius „ Šiaurės vėjas“,R.Petrukanecas,V,07.57,04:56.1,126,108,64,27
+3,Mantas,Šikšnius,1999,Vilnius,M. Grikšas,V,08.08,05:14.4,57,50,45,20
+4,Mantas,Pabrėža,1999,Vilnius,M. Grikšas,V,07.38,06:07.7,37,54,54,24
+5,Ignas,Navakauskas,1989,Vilnius,R. Petrukanecas,V,07.36,05:12.0,140,130,53,35
+6,Rolandas,Kozlovskis,1999,Vilnius,M. Grikšas,V,08.33,06:30.8,73,65,57,13
+7,Povilas ,Abraitis,1999,Vilnius,G. ir J. Aleksejūnai,V,07.86,06:17.6,46,40,45,17
+8,Kristaps Kristiāns,Ozoliņš,1998,Talsi,Z. Zujevs,V,,,0,0,0,0
+9,Linards,Baumanis,1998,Talsi,Z. Zujevs,V,,,0,0,0,0
+10,Mantas ,Litvinas,1999,Skuodas,K. Rimkūnas,V,,,0,0,0,0
+11,Tomas,Jurkevičius,1999,Šiauliai,T. Čižas,V,07.82,05:31.8,62,68,40,21
+12,Emilis,Buivydas,1997,Šiauliai,T. Čižas,V,08.07,,78,98,30,19
+14,Tomas,Srivkinas,1999,Panevėžys,V. Vaičikonis,V,07.59,04:59.6,80,101,52,26
+15,Lukas,Šakalys,1999,Panevėžys,V. Vaičikonis,V,08.29,05:29.8,86,86,51,27
+16,Matas ,Daraškevičius,1999,Panevėžys,V. Vaitiekūnas,V,07.98,05:45.5,65,82,37,16
+17,Karolis,Bružas,1999,Panevėžys,V. Vaičikonis,V,07.91,05:19.7,55,80,73,18
+18,Martynas,Bružas,1999,Panevėžys,V. Vaičikonis,V,,,0,,0,0
+19,Lukas,Šiurskas,1997,Kaunas ,E.Gustas,V,07.70,,65,63,60,23
+20,Rytis ,Romeika ,1998,Kaunas ,A.Liaudanskas,V,07.81,05:19.2,78,73,48,20
+21,Lukas ,Riklikas ,1999,Kaunas ,K.Janušauskas,V,08.37,05:27.4,51,46,35,12
+22,Lukas ,Janušaitis ,1997,Kaunas ,A.Liaudanskas,V,07.59,05:27.0,59,68,43,21
+23,Kasparas ,Giniūnas ,1997,Kaunas ,K.Janušauskas,V,07.74,05:43.5,67,75,54,21
+24,Povilas ,Dambrauskas ,1998,Kaunas ,A.Liaudanskas,V,07.89,04:53.9,99,90,48,25
+25,Audrius ,Čeponis ,1985,Kaunas ,Treniruojasi pats,V,08.12,05:12.7,88,92,50,31
+26,Dmitrii,Zaitsev,1989,Kaliningrad,S. Tarasenko,V,07.74,05:02.7,0,,55,0
+27,Stanislavs,Leschinskis,1993,BJSS Ridzene,L. Lazdeniece,V,08.21,05:11.7,92,103,43,23
+28,Ruvims,Kagans,1999,BJSS Ridzene,L.Lazdeniece,V,,,,,,
+29,Vilius,Rasimavičius,1994,Alytus Srautas,A. Atmanavičius,V,07.99,05:13.0,79,77,38,30
+30,Augustas ,Platūkis,1992,Alytus SRC,K Dambrauskas,V,07.34,05:13.0,75,,37,28
+31,Laura,Skukauska,1996,BJSS Ridzene,M. Zile,M,08.66,03:06.7,46,54,43,5
+32,Natalia,Tarasenko,1984,Kaliningrad,S Tarasenko,M,09.63,02:43.6,39,36,26,11
+33,Maria,Stepanova,1998,Kaliningrad,S Tarasenko,M,09.11,03:25.1,45,57,43,0
+34,Anastasiia,Novozhilova,1999,Kaliningrad,S Tarasenko,M,10.39,03:20.3,32,43,39,6
+35,Elena ,Memliukaitė ,1994,Kaunas ,E. Gustas,M,09.48,03:55.1,49,70,34,4
+36,Justina,Kazakaitė ,1997,Kaunas ,K. Janušauskas,M,10.64,03:08.6,16,30,40,6
+37,Medeinė ,Bložytė ,1999,Kaunas ,K. Janušauskas,M,09.97,03:11.0,35,49,50,0
+38,Gabrielė,Rauckytė,1997,Panevėžys,V. Vaičikonis,M,09.57,03:27.2,42,71,34,0
+39,Žymantė,Prakapavičiūtė,1999,Panevėžys,V. Vaičikonis,M,10.82,02:50.2,51,71,51,13
+40,Arina,Kavaliauskaitė,1996,Vilnius,M. Grikšas,M,08.46,03:18.3,31,66,36,9
+41,Gabija,Šeškutė,1998,Vilnius,G. ir J. Aleksejūnai,M,09.07,,39,44,36,
+100,Vladislavs,Fostijs,2000,BJSS Ridzene,L. Lazdeniece,V,08.32,06:02.1,95,123,41,12
+101,Dominykas,Pažėra,2001,Elektrėnai,O.Vomaitis,V,09.90,05:02.1,79,118,54,19
+102,Rokas,Steponavičius,2001,Elektrėnai,O.Vomaitis,V,09.39,05:54.3,22,58,31,8
+103,Artur,Ditrikh,2000,Kaliningrad,S. Tarasenko,V,08.06,05:19.1,83,89,26,12
+104,Rodion,Deriugin,2001,Kaliningrad,S. Tarasenko,V,08.31,06:30.4,64,72,49,10
+105,Roman,Grishin,2001,Kaliningrad,E. Penkina,V,08.29,05:38.0,71,98,45,14
+106,Mikhail,Chaus,2001,Kaliningrad,S. Tarasenko,V,08.39,06:10.4,45,66,59,11
+107,Renato ,Jurado ,2000,Kaunas ,A. Liaudanskas,V,,,67,71,32,12
+108,Matas ,Ralys ,2000,Kaunas ,A. Kaminskas,V,08.27,06:39.8,50,73,27,17
+109,Martynas ,Obelienius ,2001,Kaunas ,A. Liaudanskas,V,07.74,06:09.4,82,125,43,20
+110,Jonas,Veitas,2001,Klaipėda,A. Miežietis,V,07.87,05:30.7,108,139,55,26
+111,Martynas,Šveikauskas,2001,Klaipėda,K. Rimkūnas,V,07.62,04:49.8,95,119,39,23
+112,Rokas ,Jurkus,2000,Panevėžys,V. Vaitiekūnas ,V,07.85,05:49.3,69,119,48,17
+113,Žygimantas ,Česonis,2000,Panevėžys,P.Bespalovas,V,07.96,05:44.5,117,123,13,24
+114,Nojus , Samkus,2000,Panevėžys,P.Bespalovas,V,07.89,,0,,35,13
+115,Faustas,Butnorius,2000,Panevėžys,D. Vaičikonienė,V,,,110,141,0,0
+116,Deividas,Liukpetris,2000,Panevėžys,V. Vaičikonis,V,08.10,05:21.2,54,104,42,23
+117,Paulius ,Žukauskas,2000,Panevėžys,V. Vaičikonis,V,08.63,05:51.2,46,75,55,20
+118,Titas ,Juškauskas,2001,Panevėžys,D. Vaičikonienė,V,08.68,06:57.8,0,,37,3
+119,Žygimantas,Tvarijonas,2001,Panevėžys,V. Vaičikonis,V,,,0,,0,0
+120,Steponas,Andžius,2001,Panevėžys,V. Vaičikonis,V,,,100,136,0,0
+121,Mantas ,Gadeikis,2001,Plungė,E.Gelčinskas,V,08.53,05:05.0,68,92,34,16
+122,Tomas,Liaudinskas,2001,Šiauliai,A. Lankas,V,08.52,06:32.4,56,101,47,22
+125,Osvaldas,Mitkus,2000,Šiauliai,T. Čižas,V,07.93,04:53.6,61,112,42,17
+126,Karolis,Eidėjus,2000,Šiauliai,T. Čižas,V,07.72,05:44.7,,,57,20
+127,Julius,Petrauskas,2000,Šiauliai,T. Čižas,V,07.95,05:21.3,86,106,41,20
+128,Eimantas,Janulis,2001,Šiauliai,P. Gadeikis,V,09.30,,17,26,0,2
+129,Armandas,Žumbys,2001,Šiauliai,T. Čižas,V,08.05,05:51.7,101,140,59,24
+130,Matas,Palekas,2000,Šilutė,N.Bartušis,V,08.55,05:44.2,81,113,34,26
+131,Mantas ,Jablonskis,2000,Skuodas,K. Rimkūnas,V,,,0,0,0,0
+132,Klaidas ,Eidėjus,2001,Skuodas,K. Rimkūnas,V,,,0,0,0,0
+133,Vilius ,Knieža,2001,Skuodas,K.Rimkūnas,V,,,0,0,0,0
+134,Rinalds,Ozolnieks,2000,Talsi,Z. Zujevs,V,08.27,05:23.2,78,82,30,15
+135,Krists,Znotiņš,2001,Talsi,Z. Zujevs,V,09.61,07:17.6,70,72,22,1
+136,Raimundas,Lozovskis,2001,Trakai,A.Vieta,V,,05:24.6,83,103,41,26
+137,Vladimir,Rulevič,2000,Visaginas,A. ir O. Rein,V,08.00,,0,0,0,0
+138,Renaldas,Mieželis,2001,Visaginas,D. Michailov,V,07.99,05:21.0,82,126,47,25
+139,Aleksandr,Bevz,2001,Visaginas,A. ir O. Rein,V,,,0,0,0,0
+140,Ernestas,Mackonis,2001,Visaginas,R. Labuckas,V,08.37,06:43.8,40,55,39,13
+163,Gabrielė,Čerepokaitė,2001,Šiauliai,P. Gadeikis,M,09.71,03:33.1,35,56,45,31
+164,Rugilė,Juškaitė,2000,Panevėžys,E.Simonaitytė,M,09.02,03:04.3,51,75,38,41
+165,Anastasija,Krasnova,2000,Panevėžys,V. Vaičikonis,M,09.22,03:02.1,45,74,37,45
+166,Ala,Grigorjava,2000,Panevėžys,V. Vaičikonis,M,09.63,03:11.7,52,80,44,59
+167,Rūta,Šalaševičiūtė,2001,Marijampolė,B. Jankevičius,M,09.79,03:09.9,31,39,35,50
+168,Gabrielė ,Macijauskaitė ,2001,Kaunas ,K.Janušauskas,M,10.65,03:15.1,32,47,37,59
+169,Kamilė  ,Jakubelskaitė ,2001,Kaunas ,K.Janušauskas,M,09.61,03:50.1,47,70,40,62
+170,Austėja ,Bložytė ,2001,Kaunas ,K.Janušauskas,M,09.12,03:70.0,56,72,45,66
+200,Daniils,Uljrinovs,2002,AK Kaija,J.Apters,V,8.26,02:25.0,55,50,14,14
+201,Artjoms,Nitijevskijs,2002,BJSS Ridzene,L.Lazdeniece,V,9,,,,,2
+202,Maksimilians,Shevchenko,2002,BJSS Ridzene,L.Lazdeniece,V,8.52,03:11.7,58,56,19,14
+203,Ilja,Sechko,2003,BJSS Ridzene,M.Zile,V,9.01,02:40.4,65,43,22,20
+204,Antons ,Kalatilins,2003,BJSS Ridzene,L.Lazdeniece,V,9.47,02:54.0,58,60,33,2
+205,Irmantas,Brazys,2002,Elektrėnai,O.Vomaitis,V,,03:07.0,47,47,33,0
+206,Artūras,Golovač,2003,Elektrėnai,O.Vomaitis,V,9.94,,0,0,0,14
+207,Vaidas ,Paškevičius,2003,Elektrėnai,O.Vomaitis,V,9.11,03:07.2,53,45,38,5
+208,Julius ,Maleckas,2003,Elektrėnai,O.Vomaitis,V,8.58,03:10.4,47,48,38,24
+209,Aleksandr,Daineko,2002,Kaliningrad,N. Tarasenko,V,8.19,02:27.8,78,73,57,11
+210,Daniil,Zakharov,2002,Kaliningrad,N. Tarasenko,V,8.88,02:30.1,67,75,44,12
+211,Ilia,Toryannik,2002,Kaliningrad,S. Tarasenko,V,8.21,02:52.6,37,43,24,2
+212,Aleksandr,Barzenkov,2002,Kaliningrad,N. Tarasenko,V,9.19,02:33.4,,27,15,9
+213,Kirill,Konoplev,2003,Kaliningrad,E. Penkina,V,8.07,02:47.7,53,51,39,16
+214,Vitaliy,Makarov,2003,Kaliningrad,E. Penkina,V,7.89,02:23.6,76,81,55,15
+215,Kipras  ,Talačka,2002,Kaunas,E.Radavičius,V,8.41,02:29.3,67,69,33,12
+216,Jokūbas ,Malinauskas ,2002,Kaunas ,K.Janušauskas,V,,02:33.9,49,57,34,
+217,Paulius ,Ralys ,2002,Kaunas ,A.Kaminskas,V,08.22,02:40.0,61,70,27,18
+219,Saulius ,Balėžentis ,2003,Kaunas ,V.Atkočiūnas,V,12.30,04:44.2,26,31,17,0
+220,Emilis,Stankevičius,2002,Marijampolė,B. Jankevičius,V,08.12,02:59.0,68,77,40,13
+221,Artjom,Volgirev,2003,Narva,O. Gorohh,V,09.29,03:05.4,70,90,13,10
+222,Eividas,Luis,2002,Panevėžys,D. Vaičikonienė,V,,,0,0,0,0
+223,Linas,Juška,2002,Panevėžys,E.Simonaitytė,V,09.02,02:51.3,38,50,40,10
+224,Jokūbas,Asačiovas,2002,Panevėžys,V. Vaitiekūnas,V,,,0,0,0,0
+225,Tomas , Cesevičius,2002,Panevėžys,P.Bespalovas,V,09.01,03:01.5,53,49,39,7
+226,Einartas,Trepekas,2002,Panevėžys,D. Vaičikonienė,V,08.29,02:40.8,74,87,52,21
+227,Domantas ,Račkauskas,2002,Panevėžys,D. Vaičikonienė,V,08.16,02:42.1,67,64,27,13
+228,Martynas,Račkauskas,2002,Panevėžys,D. Vaičikonienė,V,09.28,03:04.2,36,44,25,0
+229,Joris,Pranka,2003,Panevėžys,E.Simonaitytė,V,08.98,03:00.0,56,72,24,7
+230,Einaras,Meškauskas,2003,Panevėžys,V. Vaitiekūnas,V,09.64,03:02.9,42,38,49,11
+231,Augustas,Horban,2003,Panevėžys,V. Vaitiekūnas,V,09.14,03:30.6,32,50,23,6
+232,Nedas , Zavackis,2003,Panevėžys,P.Bespalovas,V,08.33,02:46.4,64,57,29,10
+234,Pijus , Žostautas,2003,Panevėžys,P.Bespalovas,V,8.63,02:42.3,64,36,19,11
+235,Kajus,Leonavičius,2003,Panevėžys,P.Bespalovas,V,10.75,02:48.5,42,45,24,4
+236,Jonas,Visbarkas,2003,Panevėžys,D. Vaičikonienė,V,9.69,04:18.4,32,63,26,0
+237,Edvinas,Kuzmenas,2003,Panevėžys,D. Vaičikonienė,V,8.54,03:80.6,53,46,26,0
+238,Titas,Matekonis,2003,Panevėžys,D. Vaičikonienė,V,8.54,02:53.0,33,54,38,11
+239,Tomas,Švelnys,2003,Panevėžys,D. Vaičikonienė,V,8.91,03:06.7,51,61,21,6
+240,Vakaris,Vronevskis,2003,Panevėžys,D. Vaičikonienė,V,8.19,02:26.4,64,64,19,7
+241,Lukas,Navakas,2002,Panevėžys ,V. Vaitiekūnas,V,8.7,02:45.5,61,83,16,8
+242,Mantas ,Jurgutis,2002,Plungė,A. Vaitkus ,V,9.05,02:52.2,85,54,34,12
+243,Edvinas ,Šakinis,2003,Plungė,E.Gelčinskas,V,9.29,02:55.8,45,41,53,15
+244,Gustas ,Malakauskas,2003,Vilnius,S. Mažeikis,V,8.19,03:14.6,35,41,34,3
+245,Rytis ,Šelepionokas,2003,Vilnius,S. Mažeikis,V,9.09,02:55.1,43,65,35,11
+246,Ernestas ,Bucius,2002,Šiauliai,P. Gadeikis,V,8.43,03:14.2,62,66,38,7
+247,Tadas ,Lekerauskas,2002,Šiauliai,R. Bernotas,V,8.95,02:49.6,56,68,47,11
+248,Povilas,Miklaševičius,2002,Šiauliai,R. Bernotas,V,9.37,02:49.9,55,53,30,8
+249,Martynas,Saročka,2002,Šiauliai,P. Gadeikis,V,,03:30.7,37,,30,2
+253,Heraldas,Kairys,2003,Šilutė,N.Bartušis,V,08.17,02:41.7,,86,63,16
+254,Armandas ,Macevičius,2003,Skuodas,K.Rimkūnas,V,,,,0,0,0
+255,Laurynas ,Budrys,2003,Skuodas,K.Rimkūnas,V,,,,0,0,0
+256,Kārlis,Grunte,2003,Talsi,Z. Zujevs,V,09.26,03:00.1,,41,14,0
+257,Eduards,Siliņš,2003,Talsi,Z. Zujevs,V,08.91,03:00.9,,41,16,4
+258,Ričards,Vēvers,2003,Talsi,Z. Zujevs,V,09.20,03:03.1,,39,32,14
+259,Donatas,Bareika,2003,Trakai,A.Vieta,V,08.62,02:54.2,,64,22,22
+260,Aivar,Bergner,2002,Vilnius,G. ir J. Aleksejūnai,V,07.64,03:00.5,,59,41,11
+261,Augustas,Jankauskas,2002,Vilnius,G. ir J. Aleksejūnai,V,07.98,02:39.0,,63,40,12
+262,Aurimas ,Kuodis,2002,Vilnius,S. Mažeikis,V,08.95,03:13.1,,52,39,12
+263,Viačeslav,Buglak,2002,Visaginas,V. Suchorukov,V,,,,0,0,0
+264,Ignas,Ledzinskas,2003,Visaginas,A. ir O. Rein,V,,,,0,0,0
+265,Kostas,Šabajevas,2002,Zarasai,V.V. Memliukai,V,09.39,03:10.2,,56,22,7
+266,Robertas,Pilibaitis,2003,Zarasai,V.V. Memliukai,V,08.68,03:04.6,,54,42,10
+267,Tomas,Filipavičius,2003,Zarasai,V.V. Memliukai,V,08.56,02:56.2,,75,44,10
+268,Alina,Logunova,2001,Kaliningrad,D. Sleptsov,M,09.71,03:09.5,39,59,19,55
+269,Matas,Petrauskis,2002,Šilutė,N.Bartušis,V,08.39,02:42.0,,66,27,15
+280,Ieva ,Kanajeva,2003,AK Kaija,J.Apters,M,9.25,,84,86,24,34
+281,Gintarė,Pališauskaitė,2003,Elektrėnai,O.Vomaitis,M,8.97,,93,108,54,36
+282,Polina,Daineko,2002,Kaliningrad,N. Tarasenko,M,9.89,,90,110,35,50
+283,Elizaveta,Serbun,2002,Kaliningrad,D. Sleptsov,M,9.62,,77,112,19,37
+284,Kristina,Gross,2003,Kaliningrad,N. Tarasenko,M,10.98,,63,84,42,40
+285,Ksenia,Akmaeva,2003,Kaliningrad,A. Shushenkova,M,9.68,,54,89,41,25
+286,Julia,Varšavskaja,2002,Narva,A. Dubrovin,M,9.81,,93,80,38,36
+287,Benita,Veretinskaitė,2003,Panevėžys,E.Simonaitytė,M,9.28,,47,88,30,24
+288,Gabrielė ,Srivkinaitė,2003,Panevėžys,D. Vaičikonienė,M,10.51,,71,97,34,51
+289,Gabrielė,Mickutė,2003,Plungė,A. Vaitkus ,M,9.4,,36,55,31,15
+290,Bartė,Žiliukaitė,2002,Vilnius,S. Mažeikis,M,10.44,,47,65,28,21
+291,Veronika ,Šalaševičiūtė- Turbinova,2003,Vilnius,S. Mažeikis,M,10.44,,61,70,18,15
+292,Ingvild ,Midttun,2003,Vilnius,S. Mažeikis,M,9.13,,41,59,25,16
+293,Iveta,Tomaševskytė,2002,Šilutė,N.Bartušis,M,9.95,,57,84,35,25
+294,Gabrielė,Mažeikaitė,2002,Vilnius,G. ir J. Aleksejūnai,M,8.98,,78,88,42,40
+295,Izabela,Igumnova,2002,Visaginas,A. ir O. Rein,M,,,81,115,40,39
+300,Dominykas,Putickij,2004,Zarasai,V.V. Memliukai,V,05.04,,87,75,39,18
+301,Andrej,Volkov,2004,Visaginas,R. Labuckas,V,04.52,,95,93,56,48
+302,Henrikas,Noreikis,2004,Visaginas,A. ir O. Rein,V,04.68,,84,110,60,63
+303,Donatas,Garunkštis,2004,Visaginas,A. ir O. Rein,V,04.96,,85,81,50,36
+304,Lukas,Kolelis,2004,Visaginas,A. ir O. Rein,V,04.71,,82,96,63,37
+305,Kiril,Sutiagin,2004,Visaginas,A. ir O. Rein,V,05.14,,0,86,,60
+306,Kiril,Suchorukov,2005,Visaginas,V. Suchorukov,V,,,70,0,41,0
+307,Jegor,Tomm,2005,Visaginas,D. Michailov,V,04.99,,0,86,,25
+308,Vladislav ,Cepliajev,2005,Visaginas,R. Labuckas,V,,,99,0,40,0
+309,Domas ,Bareika,2005,Trakai,A.Vieta,V,04.85,,84,97,31,
+310,Verners,Krūmiņš,2004,Talsi,Z. Zujevs,V,04.67,,80,90,46,43
+311,Artūrs,Ikšelis,2004,Talsi,Z. Zujevs,V,04.58,,106,91,37,42
+312,Renārs,Bērziņš,2004,Talsi,Z. Zujevs,V,04.83,,0,45,,28
+313,Erikas ,Martinkus,2004,Skuodas,K.Rimkūnas,V,04.55,,86,0,41,0
+314,Dovydas,Rimšas,2004,Šilutė,N.Bartušis,V,04.90,,66,51,26,57
+315,Norbertas,Vaitkus,2004,Šilutė,N.Bartušis,V,04.90,,57,94,33,21
+316,Deimondas,Andriuška,2004,Šiauliai,R. Bernotas,V,05.70,,57,68,,14
+318,Nikas, Panfilovas,2004,Vilnius,S. Mažeikis,V,06.37,,52,63,10,12
+320,Rimvydas,Veitas,2004,Vilnius,S. Mažeikis,V,06.27,,57,74,20,12
+321,Augustas,Drazdauskas,2004,Vilnius,S. Mažeikis,V,05.27,,74,78,29,18
+322,Lukas,Gudijus,2004,Plungė,E.Gelčinskas,V,04.71,,61,85,30,36
+323,Lukas ,Craptavičius,2005,Plungė,A. Vaitkus ,V,05.21,,58,65,34,40
+324,Mantas ,Craptavičius,2005,Plungė,A. Vaitkus ,V,05.69,,55,62,40,24
+325,Mantas,Trakšelis ,2005,Plungė,A. Vaitkus ,V,05.24,,70,76,37,13
+326,Mantas,Skarulskis,2005,Plungė,E.Gelčinskas,V,05.00,,54,84,38,36
+327,Einaras,Žvirzdys,2005,Plungė,E.Gelčinskas,V,05.31,,54,69,60,15
+328,Augustas,Viršila,2005,Panevėžys,D. Vaičikonienė,V,05.27,,30,65,20,11
+329,Arnas,Očikas,2004,Panevėžys,D. Vaičikonienė,V,05.10,,73,49,32,11
+330,Benas,Vilčinskas,2004,Panevėžys,D. Vaičikonienė,V,04.49,,44,94,38,54
+331,Gabrielius ,Adomavičius,2005,Panevėžys,D. Vaičikonienė,V,06.06,,44,59,33,8
+332,Tadas,Baranauskas,2005,Panevėžys,D. Vaičikonienė,V,04.97,,46,70,34,31
+333,Marius ,Kvietkauskas,2004,Panevėžys,V. Vaitiekūnas,V,05.80,,,60,32,16
+334,Dovydas,Pranka,2004,Panevėžys,V. Vaitiekūnas,V,04.89,,48,55,32,30
+335,Karolis , Laskovas,2004,Panevėžys,P.Bespalovas,V,04.89,,60,80,17,23
+336,Rokas , Stoliarenka,2004,Panevėžys,P.Bespalovas,V,04.88,,73,78,32,30
+337,Tomas,Šimoliūnas,2004,Panevėžys,D. Vaičikonienė,V,05.49,,52,76,41,13
+338,Daugvydas,Staniūnas,2004,Panevėžys,D. Vaičikonienė,V,06.27,,43,64,21,1
+339,Simas,Brainskas,2004,Panevėžys,D. Vaičikonienė,V,06.00,,23,38,30,0
+340,Darijus,Bieliauskas,2005,Panevėžys,V. Vaitiekūnas,V,,,0,0,0,0
+341,Eduardas,Aleksejūnas,2005,Panevėžys,V. Vaitiekūnas,V,,,0,0,0,0
+342,Linas ,Bukauskas,2005,Panevėžys,D. Vaičikonienė,V,04.88,,53,72,34,30
+343,Rytis,Bakas,2005,Panevėžys,D. Vaičikonienė,V,05.80,,41,49,35,15
+344,Nedas ,Kraujelis,2005,Panevėžys,D. Vaičikonienė,V,05.17,,65,65,49,40
+345,Aleksei,Olenin,2004,Narva,O. Gorohh,V,05.10,,74,85,25,32
+346,Ivan,Pettšenko,2004,Narva,A. Dubrovin,V,05.22,,72,85,27,59
+347,Mihhail,Lehmus,2004,Narva,A. Solovjov,V,05.12,,81,98,34,43
+348,Liudvikas,Repšys,2004,Marijanpolė,B. Jankevičius,V,05.48,,41,70,20,5
+349,Dovydas,Bertašius,2004,Klaipėda,K. Rimkūnas,V,05.14,,75,88,39,40
+350,Mark ,Safronov ,2004,Kaunas ,A.Kaminskas,V,04.79,,86,97,41,31
+351,Ridas ,Dobrovolskis ,2004,Kaunas ,V.Atkočiūnas,V,05.04,,46,63,27,30
+352,Simas ,Bajerkevičius ,2004,Kaunas ,V.Atkočiūnas,V,04.94,,54,80,30,20
+353,Pavel,Liubovtsev,2004,Kaliningrad,E. Penkina,V,05.14,,50,59,40,60
+354,Danil,Tretiakov,2004,Kaliningrad,E. Penkina,V,05.05,,87,100,36,42
+355,Aleksandr,Skidan,2004,Kaliningrad,A. Shushenkova,V,04.84,,58,88,49,42
+356,Aleksandr,Sergienko,2004,Kaliningrad,S. Tarasenko,V,05.14,,81,93,36,61
+357,Grigorii,Dashkov,2004,Kaliningrad,E. Penkina,V,04.88,,54,67,38,34
+358,Semen,Lukiyanchuk,2005,Kaliningrad,E. Penkina,V,05.74,,37,63,45,30
+359,Timofey,Zhukov,2005,Kaliningrad,A. Shushenkova,V,05.51,,51,69,50,42
+360,Aleksei,Novozhilov,2005,Kaliningrad,E. Penkina,V,05.67,,68,64,33,40
+361,Pavel,Kudrin,2005,Kaliningrad,E. Penkina,V,06.01,,48,74,40,30
+362,Mikhail,Kranoschekov,2005,Kaliningrad,D. Sleptsov,V,05.68,,52,72,43,46
+363,Anton,Alimov,2005,Kaliningrad,A. Shushenkova,V,05.06,,71,96,0,56
+364,Dominykas,Builo,2005,Elektrėnai,O.Vomaitis,V,05.35,,61,78,26,41
+365,Arturs,Lochmelis,2004,AK Kaija,L.Lazdeniece,V,,,,,,
+370,Elizaveta,Fedorova,2004,Narva,Andrei Solovjov,M,04.98,01:17.3,44,139,9,01:11.7
+371,Yulia,Morozova,2004,Kaliningrad,Anna Shushenkova,M,05.31,01:26.7,46,145,5,01:19.3
+372,Alina,Vasileva,2004,Kaliningrad,Natalia Tarasenko,M,05.26,01:26.9,49,165,2,01:14.6
+373,Viktoria,Nosova,2004,Kaliningrad,Denis Sleptsov,M,05.32,01:25.9,54,30,11,01:18.8
+374,Neda ,Ralytė ,2004,Kaunas ,A.Kaminskas,M,05.31,01:21.5,48,111,3,01:15.5
+375,Monika,Navakaitė,2004,Panevėžys,E.Simonaitytė,M,04.70,01:18.2,39,111,2,01:38.9
+376,Margarita,Sokolova,2004,BJSS Ridzene,L.Lazdeniece,M,05.52,01:25.2,35,190,3,00:31.6
+378,Deimantė,Davidavičiūtė,2005,Elektrėnai,O.Vomaitis,M,05.14,01:23.1,56,124,7,01:30.9
+379,Viltė,Karlapavičiūtė,2005,Elektrėnai,O.Vomaitis,M,05.60,01:30.6,39,38,9,00:53.3
+380,Olga,Vaivoda,2005,Kaliningrad,A. Shushenkova,M,05.60,01:27.6,36,31,8,00:20.9
+381,Regina,Timoshenkova,2005,Kaliningrad,E. Penkina,M,05.78,01:27.3,49,33,13,00:25.5
+382,Rugilė ,Jonuškaitė,2005,Kaunas ,K.Janušauskas,M,05.76,01:21.1,43,117,2,01:15.9
+383,Elinga,Čepokaitė,2004,Panevėžys,D. Vaičikonienė,M,05.29,01:33.6,24,44,11,00:27.7
+384,Ugnė ,Sabaliauskaitė,2004,Plungė,A. Vaitkus ,M,05.18,01:29.4,40,90,3,01:05.4
+386,Lidija,Rimkutė,2004,Šilutė,N.Bartušis,M,05.34,01:27.9,41,91,3,01:22.0
+387,Karina,Martiniuk,2004,Vilnius,G. ir J. Aleksejūnai,M,05.01,01:15.8,62,162,2,01:12.2
+388,Lukrecija,Dževečkaitė,2005,Vilnius,G. ir J. Aleksejūnai,M,04.90,01:15.4,41,69,3,00:20.9
+389,Alina,Kostygova,2004,Visaginas,D. Michailov,M,05.11,01:21.0,23,100,9,01:01.4
+390,Polina,Splošnova,2005,Visaginas,D. Michailov,M,05.17,01:18.9,30,100,6,00:36.3
+400,Adas,Stefanovič,2006,Elektrėnai,O.Vomaitis,V,05.66,00:41.9,16,165,14,00:32.9
+401,Danielius,Stefanovič,2006,Elektrėnai,O.Vomaitis,V,05.93,00:42.2,28,171,,01:01.7
+402,Paulius,Simanavičius,2007,Elektrėnai,O.Vomaitis,V,,,0,0,,
+403,Dominykas,Simanavičius,2007,Elektrėnai,O.Vomaitis,V,,,0,0,6,
+404,Lukas,Kybartas,2007,Elektrėnai,O.Vomaitis,V,05.65,00:36.5,23,120,9,01:07.2
+405,Sergei,Dolganov,2006,Kaliningrad,E. Penkina,V,05.25,00:35.3,31,123,23,01:20.3
+406,Vldaislav,Kisel,2006,Kaliningrad,A. Shushenkova,V,05.78,00:38.1,21,121,18,00:12.9
+407,Artem,Gladkikh,2007,Kaliningrad,E. Penkina,V,05.65,00:36.1,14,87,12,00:31.3
+408,Mikhail,Grodnikov,2007,Kaliningrad,D. Sleptsov,V,05.18,00:34.7,25,79,14,01:24.6
+409,Mikhail,Shamsheev,2007,Kaliningrad,D. Sleptsov,V,05.44,00:38.4,29,134,24,01:09.9
+410,Ilia,Glushachenkov,2007,Kaliningrad,D. Sleptsov,V,05.83,00:39.2,18,101,5,01:03.6
+411,Pavel,Titov,2007,Kaliningrad,N. Tarasenko,V,05.07,00:34.2,25,143,,01:40.1
+412,Nikita,Tarasenko,2007,Kaliningrad,S. Tarasenko,V,04.93,00:34.7,26,120,17,01:21.6
+413,Oleg,Nikitenkov,2007,Kaliningrad,D. Sleptsov,V,05.12,00:34.4,30,83,9,01:16.5
+414,Ivan,Kulbachnyi,2009,Kaliningrad,A. Shushenkova,V,05.98,00:42.9,19,112,18,00:17.0
+415,Vladimir,Nekhvedovich,2009,Kaliningrad,N. Tarasenko,V,05.90,00:36.1,17,116,15,00:43.3
+416,Vilandas,Stasiulevičius,2006,Kaunas,E.Radavičius,V,05.31,00:37.0,28,121,10,00:51.3
+420,Dovydas,Katkauskas,2007,Kaunas,E.Radavičius,V,05.42,00:40.8,26,126,10,00:53.4
+421,Adrijus,Averkinas,2007,Kaunas,E.Radavičius,V,05.88,00:44.1,20,75,16,00:56.9
+423,Kipras ,Bajerkevičius ,2006,Kaunas ,V.Atkočiūnas,V,05.39,00:39.1,19,58,14,00:25.9
+425,Ignas ,Marcinkevičius ,2006,Kaunas ,V.Atkočiūnas,V,05.90,00:43.2,21,102,18,00:24.7
+426,Gustas ,Zalatorius ,2006,Kaunas ,V.Atkočiūnas,V,05.63,00:40.6,18,62,12,00:11.6
+427,Emilis ,Železnakovs ,2006,Kaunas ,V.Atkočiūnas,V,04.25,00:35.8,19,68,14,00:57.4
+428,Ugnius,Stankevičius,2006,Marijampolė,B. Jankevičius,V,05.21,00:37.6,18,127,3,01:18.6
+429,Vilius,Vosylius,2006,Marijampolė,B. Jankevičius,V,05.43,00:38.5,23,135,6,00:59.1
+430,Ugnius,Jukna,2006,Panevėžys,V. Vaitiekūnas,V,05.23,00:36.2,20,93,19,01:11.3
+431,Aironas,Valentinavičius,2006,Panevėžys,V. Vaitiekūnas,V,05.67,00:39.2,16,78,10,00:16.4
+432,Paulius , Valma,2006,Panevėžys,P.Bespalovas,V,05.09,00:36.8,15,74,18,00:13.5
+433,DeiVtas,Raila,2006,Panevėžys,D. Vaičikonienė,V,05.67,00:37.0,19,132,13,01:17.5
+434,Reinas ,Trepekas,2006,Panevėžys,D. Vaičikonienė,V,05.69,00:37.6,19,62,19,00:35.8
+435,Nedas,Rudokas,2006,Panevėžys,D. Vaičikonienė,V,05.50,00:36.0,19,103,5,00:36.8
+437,Denis,Masliakov,2006,Visaginas,A. ir O. Rein,V,05.53,00:38.1,18,68,10,00:43.1
+438,Valentin,Velebskij,2006,Visaginas,D. Michailov,V,04.73,00:32.7,26,140,1,01:10.3
+439,Artūras,Noreikis,2008,Visaginas,A. ir O. Rein,V,06.10,00:43.3,15,140,14,01:06.0
+440,Tomas,Chainauskas,2005,Panevėžys,D. Vaičikonienė,V,05.03,,66,72,23,41
+441,Timurs ,Ivaničenko,2008,BJSS Ridzene,L. Lazdeniece,V,06.62,00:49.5,15,47,18,00:05.4
+442,Samuels, Sečko,2007,BJSS Ridzene,L. Lazdeniece,V,06.11,00:43.0,11,96,,00:23.5
+450,Sindija,Martinsone,2010,AK Kaija,L.Lazdeniece,M,,00:46.9,10,54,20,00:08.1
+451,Daria,Sergienko,2006,Kaliningrad,N. Tarasenko,M,,00:35.5,15,132,23,00:34.4
+452,Anastasia,Kuramshina,2006,Kaliningrad,N. Tarasenko,M,,00:36.5,20,80,8,00:44.4
+453,Elizaveta,Krasnoschekva,2007,Kaliningrad,D. Sleptsov,M,,00:38.9,18,112,8,01:06.2
+454,Sandarela,Dayekh,2006,Vilnius,G. ir J. ALeksejūnai,M,,00:37.8,27,102,17,01:16.8
+455,Patricija,Dževečkaitė,2008,Vilnius,G. ir J. ALeksejūnai,M,,00:45.0,20,107,7,00:41.2
